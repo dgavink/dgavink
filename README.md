@@ -4,8 +4,8 @@
   
 ```
     .--.
-   |o_o |                                            Welcome to my digital realm...
-   |:_/ |                                            Where code comes alive! 
+               |o_o |                                            Welcome to my digital realm...
+              |:_/ |                                            Where code comes alive! 
   //   \ \
  (|     | )
 /'\_   _/`\
