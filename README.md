@@ -1,11 +1,11 @@
-# 👻 Hey there, I'm Gavin Kahanda!
+# Hey there, I'm Gavin Kahanda!
 
 <div align="center">
   
 ```
     .--.
-               |o_o |                                            Welcome to my digital realm...
-              |:_/ |                                            Where code comes alive! 
+   |o_o |                                            Welcome to my digital realm...
+   |:_/ |                                            Where code comes alive! 
   //   \ \
  (|     | )
 /'\_   _/`\
