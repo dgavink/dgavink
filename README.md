@@ -4,8 +4,8 @@
   
 ```
     .--.
-   |o_o |                                            Welcome to my digital realm...
-   |:_/ |                                            Where code comes alive! 
+        |o_o |                                           Welcome to my digital realm...
+        |:_/ |                                          Where code comes alive! 
   //   \ \
  (|     | )
 /'\_   _/`\
@@ -14,17 +14,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a **Software Engineer Undergraduate** at Lanka Nippon Biztech Institute, passionate about crafting innovative solutions and pushing the boundaries of technology. I transform caffeine into code and ideas into reality! ☕💻
 
-- 🔭 Currently working on **AI-driven applications** and **full-stack development**
-- 🌱 Exploring **Cloud Computing**, **AI/ML**, and emerging tech
-- 🏆 Award winner at Jasper Research Symposium 2025 & UniCTF v1.0
-- 💡 Believer in clean code, continuous learning, and innovation
-- 📍 Based in Sri Lanka 🇱🇰
+- Currently working on **AI-driven applications** and **full-stack development**
+- Exploring **Cloud Computing**, **AI/ML**, and emerging tech
+- Award winner at Jasper Research Symposium 2025 & UniCTF v1.0
+- Believer in clean code, continuous learning, and innovation
+- Based in Sri Lanka 🇱🇰
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 **Languages & Frameworks:**
 ```javascript
@@ -38,7 +38,7 @@ const gavin = {
 };
 ```
 
-## 🎯 Featured Projects
+# Featured Projects
 
 ### 🚌 [Rydora](https://github.com/dgavink)
 AI-Optimized Expressway Bus Transit System focused on passenger safety and efficiency
@@ -66,7 +66,7 @@ Virtual Art Gallery & Auction desktop application
 
 </div>
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 - 🥇 **Best Paper & Presentation** - Jasper Research Symposium 2025
 - 🥇 **1st Place** - Uni CTF v1.0 Capture the Flag
