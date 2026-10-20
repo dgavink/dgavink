@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Gavin Kahanda
+#  Hey, I'm Gavin Kahanda
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+Enthusiast;Full-Stack+Developer;Cloud+%26+Security+Explorer;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
@@ -13,9 +13,9 @@
 ```
 
 <p>
-  <img src="https://img.shields.io/badge/🎓-Software_Engineering_Student-00D9FF?style=for-the-badge&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/📍-Sri_Lanka-FF6B6B?style=for-the-badge&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/⚡-Always_Building-4CAF50?style=for-the-badge&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/-Software_Engineering_Student-00D9FF?style=for-the-badge&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/-Sri_Lanka-FF6B6B?style=for-the-badge&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/-Always_Building-4CAF50?style=for-the-badge&labelColor=0A192F" />
 </p>
 
 </div>
